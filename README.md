@@ -2,4 +2,4 @@
 
 authors: giorgio olivieri, andrea perrucci and stefano de angelis
 
-idea for treatment of Androgenetic alopecia
+Business model : a new product  for treatment of Androgenetic alopecia using minoxidil
